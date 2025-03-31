@@ -32,7 +32,39 @@
 
 ---
 
-> "Il codice è come l'umorismo. Quando lo devi spiegare, è pessimo." – Cory House
+# 👋 Hi, I'm Michele Fumi!
+
+💻 **Junior Full-Stack Developer** with a focus on backend.  
+🎵 **Weekend electronic music composer**.  
+🎮 **Passionate gamer**.  
+📍 Based in **Padova, Italy**.
+
+## 🚀 Technologies & Tools:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+## 📈 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MicheleFumi&show_icons=true&theme=radical" alt="Michele Fumi's GitHub Stats"/>
+</p>
+
+## 📫 Get in Touch:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-fumi-54503125a)
+
+---
+
+> **"Why do programmers prefer dark mode? Because light attracts bugs."** 
 
 ---
 
